@@ -1,0 +1,16 @@
+{
+  "firstName": "Vugar",
+  "lastName": "Yusibzada",
+  "age": 30,
+  "isStudent": true,
+  "address": {
+    "street": "123 ",
+    "city": "Baku",
+    "postalCode": "1000"
+  },
+  "hobbies": [
+    "reading",
+    "coding",
+    "music"
+  ]
+}
